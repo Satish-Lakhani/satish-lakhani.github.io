@@ -1,0 +1,324 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "ComplianceOn",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": null,
+      "description": "Automate and monitor compliance for SOC2, PCI DSS, and ISO27001.\n\n Easily connect your entire infrastructure and business applications to gain and monitor controls continuously. \n\n Automation for evidence gathering and controls is a breath.  Integrates various  systems providing a single dashboard displaying the governance posture on various frameworks like SOC2, PCI and more. \n\n Streamline and automate the management of policies and procedures utilizing our policy manager to ensure compliance, improve collaboration, and reduce risks. \n\n Instantly integrate your apps and technologies for a complete coverage using our marketplace",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "devicon:html5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "devicon:css3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "devicon:javascript"
+        },
+        {
+          "name": "ReactJs",
+          "iconifyClass": "devicon:react"
+        },
+        {
+          "name": "NodeJs",
+          "iconifyClass": "devicon:nodejs"
+        }
+      ],
+      "images": [
+        {
+          "src": "complianceon/1.png",
+          "id": "1"
+        },
+        {
+          "src": "complianceon/2.png",
+          "id": "2"
+        },
+        {
+          "src": "complianceon/3.png",
+          "id": "3"
+        },
+        {
+          "src": "complianceon/4.png",
+          "id": "4"
+        },
+        {
+          "src": "complianceon/5.png",
+          "id": "5"
+        },
+        {
+          "src": "complianceon/6.png",
+          "id": "6"
+        },
+        {
+          "src": "complianceon/7.png",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "ArgoGpt",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": null,
+      "description": "Say goodbye to shadow GPT that duplicates and scatters expensive prompt engineering efforts within the company/team. \n\n Say hello to efficiency with ArgoGPT - our team-based GPT client that allows admins to centrally create, curate, version and manage prompts, plugins, and content that is seamlessly consumed by all team members.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "devicon:html5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "devicon:css3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "devicon:javascript"
+        },
+        {
+          "name": "VueJs",
+          "iconifyClass": "devicon:vuejs"
+        },
+        {
+          "name": "Laravel",
+          "iconifyClass": "devicon:laravel"
+        }
+      ],
+      "images": [
+        {
+          "src": "argogpt/1.png",
+          "id": "1"
+        },
+        {
+          "src": "argogpt/2.png",
+          "id": "2"
+        },
+        {
+          "src": "argogpt/3.png",
+          "id": "3"
+        },
+        {
+          "src": "argogpt/4.png",
+          "id": "4"
+        },
+        {
+          "src": "argogpt/5.png",
+          "id": "5"
+        },
+        {
+          "src": "argogpt/6.png",
+          "id": "6"
+        },
+        {
+          "src": "argogpt/7.png",
+          "id": "7"
+        },
+        {
+          "src": "argogpt/8.png",
+          "id": "8"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Gfacility Webapp",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": null,
+      "description": "At Gfacility, we believe that technology is the key to an attractive work environment and high-quality services. With our revolutionary approach, we help you set the new standard for your organization. A standard that feels just as familiar as the old one but, above all, gets a little better every day.\n\n Our software goes beyond just user-friendliness. We want to help our users succeed with intuitive software that proactively supports the user.\n\n At Gfacility, we offer the broadest definition of Software as a Service (SaaS). Our software is designed with the latest technology, with information security, infinite scalability, and seamless integration with other software solutions as core principles. We understand that organizations are constantly changing and evolving, and we are happy to evolve with you. With our software, you can easily make adjustments yourself, and as a partner, we proactively help you get the most out of the software. \n\n Solutions: \n\n 1) Events \n\n 2) Visitors \n\n 3) Catering \n\n 4) Finance \n\n 5) Room Signages \n\n 6) Dashboards \n\n 7) Google Workspace \n\n 8) Office 365 \n\n 9) Helpdesk  \n\n 10) QR code generator \n\n 11) Preventive Maintenance \n\n 12) Asset Management ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AngularJs",
+          "iconifyClass": "devicon:angularjs"
+        },
+        {
+          "name": "NodeJs",
+          "iconifyClass": "devicon:nodejs"
+        },
+        {
+          "name": "MySql",
+          "iconifyClass": "devicon:mysql"
+        },
+        {
+          "name": "Laravel",
+          "iconifyClass": "devicon:laravel"
+        },
+        {
+          "name": "Cloud functions, GCP KMS based encryption, Cloud Tasks, Big Table",
+          "iconifyClass": "devicon:googlecloud"
+        }
+      ],
+      "images": [
+        {
+          "src": "gfacility/1.png",
+          "id": "1"
+        },
+        {
+          "src": "gfacility/2.png",
+          "id": "2"
+        },
+        {
+          "src": "gfacility/3.png",
+          "id": "3"
+        },
+        {
+          "src": "gfacility/4.png",
+          "id": "4"
+        },
+        {
+          "src": "gfacility/5.png",
+          "id": "5"
+        },
+        {
+          "src": "gfacility/6.png",
+          "id": "6"
+        },
+        {
+          "src": "gfacility/7.png",
+          "id": "7"
+        },
+        {
+          "src": "gfacility/8.png",
+          "id": "8"
+        },
+        {
+          "src": "gfacility/9.png",
+          "id": "9"
+        },
+        {
+          "src": "gfacility/10.png",
+          "id": "10"
+        },
+        {
+          "src": "gfacility/11.png",
+          "id": "11"
+        },
+        {
+          "src": "gfacility/12.png",
+          "id": "12"
+        },
+        {
+          "src": "gfacility/13.png",
+          "id": "13"
+        },
+        {
+          "src": "gfacility/14.png",
+          "id": "14"
+        },
+        {
+          "src": "gfacility/15.png",
+          "id": "15"
+        },
+        {
+          "src": "gfacility/16.png",
+          "id": "16"
+        },
+        {
+          "src": "gfacility/17.png",
+          "id": "17"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Google addin",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": null,
+      "description": "Google Calendar Add-ins, often referred to as Google Workspace Add-ons, can enhance your scheduling and productivity within Google Calendar. These add-ins provide additional features and integrations that make managing your events and tasks more efficient. Here are some common usages of Google Calendar Add-ins: \n\n 1) Meeting Scheduling: \n\n 2) Task Management: \n\n 3) Video Conferencing: \n\n 4) Event Management: \n\n 5) Workflow Automation: \n\n These add-ins can greatly expand the functionality of Google Calendar, allowing you to customize it to suit your specific needs. Whether you need help with scheduling, task management, collaboration, or other aspects of your daily routine, there's likely an add-in that can streamline and improve your Google Calendar experience.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Google AppScript",
+          "iconifyClass": "simple-icons:googleappsscript"
+        }
+      ],
+      "images": [
+        {
+          "src": "google-addin/1.png",
+          "id": "1"
+        },
+        {
+          "src": "google-addin/2.png",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "MS addin",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": null,
+      "description": "Microsoft offers a wide range of integrations and features across its various productivity and communication tools, which can enhance your scheduling and calendar management experience. Here are some common usages and integrations related to Microsoft calendar applications: \n\n 1) Outlook Add-ins: \n\n 2) Microsoft Teams Meetings: \n\n 3) Task Management Integration: \n\n 4) Office 365 Groups and SharePoint: \n\n 5) Email and Communication:      ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "devicon:html5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "devicon:css3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "devicon:javascript"
+        },
+        {
+          "name": "AngularJs",
+          "iconifyClass": "devicon:angularjs"
+        }
+      ],
+      "images": [
+        {
+          "src": "ms-addin/1.png",
+          "id": "1"
+        },
+        {
+          "src": "ms-addin/2.png",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Room signage",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": null,
+      "description": "Optimize your meeting and conference room management with the smart Gfacility Building Management Solution. \n\n Gain real-time control of your meeting and conference room availability status directly from your device. Stay informed about the daily and hourly changes in your facilities bookings and automatically keep the meeting room signage updated for your visitors. Gfacilitate your room signage process to improve your meeting quality, create a stellar visitor experience, and increase your team’s productivity. \n\n With the Gfacility Room Signage solution, you have all meeting details and room status updates at your fingertips. Reschedule your meetings easily from your smart device, and simply tap on the signage to begin, end, or extend your meeting. Manage your meeting rooms smartly to ensure exceptional coordination and flawless meeting organization in your company. \n\n Have your meeting room availability distinctly signaled through LED lighting and ensure the smooth and error-free signage process required for improving your business productivity. \n\n Use our facility management software to make instant bookings from your device in case of unplanned or emergency meetings, or extend your existing booking on the spot with just one tap. This fast, easy, and flexible booking option helps your team respond to unexpected situations and increases their efficiency. \n\n Free-up booked meeting rooms no longer in use or upon meeting cancellation and send availability updates to notify room’s live status. Easily keep track of your facility status and effectively modify your schedule as per your business goals.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AngularJs",
+          "iconifyClass": "devicon:angularjs"
+        },
+        {
+          "name": "Cloud functions, Cloud SQL",
+          "iconifyClass": "devicon:googlecloud"
+        },
+        {
+          "name": "Web socket",
+          "iconifyClass": "logos:websocket"
+        },
+        {
+          "name": "PWA",
+          "iconifyClass": "logos:pwa"
+        }
+      ],
+      "images": [
+        {
+          "src": "room-signage/1.png",
+          "id": "1"
+        },
+        {
+          "src": "room-signage/2.png",
+          "id": "2"
+        }
+      ]
+    }
+  ]
+}
