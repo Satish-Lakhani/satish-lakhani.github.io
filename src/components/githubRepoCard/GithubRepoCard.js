@@ -53,7 +53,7 @@ export default function GithubRepoCard({ repo, theme }) {
             >
               <Carousel
                 autoPlay
-                showThumbs={true}
+                showThumbs={false}
                 showIndicators={false}
                 stopOnHover={true}
                 infiniteLoop={true}

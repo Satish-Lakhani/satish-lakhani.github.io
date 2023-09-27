@@ -726,7 +726,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "profile_dp.png",
+    profile_image_path: "profile_dp_rounded.png",
     description:
       "With more than 9 years of experience in the core technical domain growing from a Software developer to a Technical Lead has helped me develop expertise with various platforms and frameworks of coding like MEAN/MERN stack, Google Cloud, AWS, various SQL and No-SQL databases, and more.",
   },

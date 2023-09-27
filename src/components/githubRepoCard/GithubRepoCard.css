@@ -76,10 +76,10 @@
   text-align: left;
   display: -webkit-box;
   font-family: "Google Sans Regular";
-  -webkit-line-clamp: 50;
+  -webkit-line-clamp: 5;
   -webkit-box-orient: vertical;
   margin-top: 0.8rem;
-  white-space: pre-line
+  white-space: pre-line;
 }
 
 .repo-details {
