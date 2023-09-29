@@ -12,6 +12,7 @@ class ExperienceAccordion extends Component {
           {this.props.sections.map((section) => {
             return (
               <Panel
+                expanded={true}
                 className="accord-panel"
                 title={section["title"]}
                 key={section["title"]}
@@ -37,9 +38,14 @@ class ExperienceAccordion extends Component {
                   },
                 }}
               >
-{section["experiences"].map((experience,index) => {
+                {section["experiences"].map((experience, index) => {
                   return (
-                    <ExperienceCard index={index} totalCards={section["experiences"].length} experience={experience} theme={theme} />
+                    <ExperienceCard
+                      index={index}
+                      totalCards={section["experiences"].length}
+                      experience={experience}
+                      theme={theme}
+                    />
                   );
                 })}
               </Panel>

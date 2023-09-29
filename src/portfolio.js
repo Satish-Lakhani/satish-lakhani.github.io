@@ -40,7 +40,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/satish-lakhani/",
+    link: "https://in.linkedin.com/in/satish-lakhani",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -525,11 +525,12 @@ const certifications = {
 };
 
 // Experience Page
+const cYear = new Date().getFullYear();
+const experienceYear = cYear - 2014;
 const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
-  description:
-    "With more than 8 years of experience in the core technical domain growing from a Software developer to a Technical Lead has helped me develop expertise with various platforms and frameworks of coding like MEAN/MERN stack, Google cloud, various SQL and No-SQL databases, and more.",
+  description: `With more than ${experienceYear} years of experience in the core technical domain growing from a Software developer to a Technical Lead has helped me develop expertise with various platforms and frameworks of coding like MEAN/MERN stack, Google cloud, various SQL and No-SQL databases, and more.`,
   header_image_path: "experience.svg",
   sections: [
     {
@@ -540,22 +541,27 @@ const experience = {
           title: "Technical Lead",
           company: "Chat Inc",
           company_url: "http://www.chatinc.com/",
-          logo_path: "freecopy_logo.png",
+          logo_path: "chatinc.gif",
           duration: "Jan 2021 - Present",
           location: "Cape Town, Western Cape, South Africa",
-          description:
-            "Kong API Gateway · AWS Lambda · REST APIs · Google Cloud Platform (GCP) · RESTful WebServices · Cloud Computing · GitHub · Software Deployment · Bitbucket · Linux · React.js · Node.js · MySQL · AngularJS · Firebase · Cloud Firestore · MongoDB · Redis",
+          description: `Kong API Gateway · AWS Lambda · REST APIs · Google Cloud Platform (GCP) · RESTful WebServices · Cloud Computing · GitHub · Software Deployment · Bitbucket · Linux · React.js · Node.js · MySQL · AngularJS · Firebase · Cloud Firestore · MongoDB · Redis \n
+          - Contributing to designing system architects for the in-house products.
+          - Migrating legacy systems to new stack and the environment.
+          - Improved the message processing capabilities by more than 15x.
+          - Leading engineering team based in India.
+          - Designed Proactive message sending app for the Zendesk Marketplace.
+          `,
           color: "#fc1f20",
         },
         {
           title: "Senior Software Engineer",
-          company: "Maven Agency",
+          company: "Maven Agency (Now +OneX)",
           company_url: "http://www.maven.one/",
-          logo_path: "freecopy_logo.png",
+          logo_path: "Maven.jpeg",
           duration: "Mar 2018 - Jan 2021",
           location: "Surat, Gujarat",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "Working with NodeJs, ReactJs, Angular, ExpressJs, Mysql, Postgres, Rabbitmq & GCP",
           color: "#fc1f20",
         },
         {
@@ -563,7 +569,7 @@ const experience = {
           company: "Rawal Infocom Pvt Ltd.",
           company_url:
             "https://www.linkedin.com/company/rawal-infocom-pvt-ltd./about/",
-          logo_path: "muffito_logo.png",
+          logo_path: "Rawal.jpeg",
           duration: "Dec 2016 - Feb 2018",
           location: "Surat, Gujarat",
           description:
@@ -574,10 +580,19 @@ const experience = {
           title: "Software Developer",
           company: "Krishagni Solutions Pvt Ltd",
           company_url: "https://www.openspecimen.org/",
-          logo_path: "legato_logo.png",
+          logo_path: "krishagni.jpeg",
           duration: "Jan 2014 - Nov 2016",
           location: "Pune, Maharashtra",
-          description: "openSpecimen (caTissue)",
+          description: `openSpecimen (caTissue)
+          \n Health Research Management Product.
+          \n Developed using Spring Rest Api's, Hibernate, Angular Js, HTML 5, CSS, Jquery, MySql, Oracle, Grunt.
+          \n ---------------------------------------------------------------------------------------------------------
+          \n SHMi Analytics Portal
+          \n Web-based application
+          \n Using Java(Servlet / Jsp) + DHTML + Javascript + MySql
+          \n ---------------------------------------------------------------------------------------------------------
+          \n GTAC - Genome Technology Access Center for Washington University (Department of Genetics)
+          \n Health Research-Based Web Application Using Python, Django, HTML, Jquery, and CSS.`,
           color: "#0879bf",
         },
       ],
@@ -727,8 +742,7 @@ const contactPageData = {
   contactSection: {
     title: "Contact Me",
     profile_image_path: "profile_dp_rounded.png",
-    description:
-      "With more than 9 years of experience in the core technical domain growing from a Software developer to a Technical Lead has helped me develop expertise with various platforms and frameworks of coding like MEAN/MERN stack, Google Cloud, AWS, various SQL and No-SQL databases, and more.",
+    description: `With more than ${experienceYear} years of experience in the core technical domain growing from a Software developer to a Technical Lead has helped me develop expertise with various platforms and frameworks of coding like MEAN/MERN stack, Google Cloud, AWS, various SQL and No-SQL databases, and more.`,
   },
   blogSection: {
     title: "Blogs",
