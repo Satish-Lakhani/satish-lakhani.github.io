@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64ae7183d02ae466ffa675d3141cb512",
+    "revision": "4bcde492e8c0975cd720894d7aa7c0dd",
     "url": "/index.html"
   },
   {
-    "revision": "63a677bbae0a9167e783",
+    "revision": "fad2635025301ed2223f",
     "url": "/static/css/2.fe62fa80.chunk.css"
   },
   {
-    "revision": "1836fc2ef9a736ca53a5",
+    "revision": "36a7afba864e6b71b885",
     "url": "/static/css/main.1ca11119.chunk.css"
   },
   {
-    "revision": "63a677bbae0a9167e783",
-    "url": "/static/js/2.62505451.chunk.js"
+    "revision": "fad2635025301ed2223f",
+    "url": "/static/js/2.d452d628.chunk.js"
   },
   {
-    "revision": "1836fc2ef9a736ca53a5",
-    "url": "/static/js/main.28d6605c.chunk.js"
+    "revision": "36a7afba864e6b71b885",
+    "url": "/static/js/main.5b769d24.chunk.js"
   },
   {
     "revision": "3fd6e287f36e080d35cd",
@@ -228,6 +228,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/blogs_image.058eca4c.svg"
   },
   {
+    "revision": "69da6796138df214c419707298e8d31f",
+    "url": "/static/media/chatinc.69da6796.gif"
+  },
+  {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
     "url": "/static/media/cloud_infrastructure.cacbc42b.svg"
   },
@@ -368,16 +372,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/jsFramework.5b4a6449.svg"
   },
   {
-    "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
-    "url": "/static/media/legato_logo.c597fbde.png"
+    "revision": "b663518ef848c8a53fe3472d4dc3f001",
+    "url": "/static/media/krishagni.b663518e.jpeg"
   },
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/static/media/manOnTable.83ac24fb.svg"
-  },
-  {
-    "revision": "069938a84edd6ebf383c318e9feb5d4c",
-    "url": "/static/media/muffito_logo.069938a8.png"
   },
   {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
