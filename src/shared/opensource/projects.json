@@ -2,61 +2,97 @@
   "data": [
     {
       "id": "1",
-      "name": "ComplianceOn",
+      "name": "Fastr",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": null,
-      "description": "Automate and monitor compliance for SOC2, PCI DSS, and ISO27001.\n\n Easily connect your entire infrastructure and business applications to gain and monitor controls continuously. \n\n Automation for evidence gathering and controls is a breath.  Integrates various  systems providing a single dashboard displaying the governance posture on various frameworks like SOC2, PCI and more. \n\n Streamline and automate the management of policies and procedures utilizing our policy manager to ensure compliance, improve collaboration, and reduce risks. \n\n Instantly integrate your apps and technologies for a complete coverage using our marketplace",
+      "description": "As a full-stack engineer, played a pivotal role in shaping a job portal for the UK-based startup using Next.js.\n\n The platform catered to both job seekers and job creators, significantly reducing tasks around times and promoting independent task management among engineers.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "devicon:html5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "devicon:css3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "devicon:javascript"
-        },
-        {
-          "name": "ReactJs",
-          "iconifyClass": "devicon:react"
-        },
-        {
-          "name": "NodeJs",
-          "iconifyClass": "devicon:nodejs"
+          "name": "NextJs",
+          "iconifyClass": "devicon:nextjs"
         }
       ],
       "images": [
         {
-          "src": "complianceon/1.png",
+          "src": "fastr/1.png",
           "id": "1"
         },
         {
-          "src": "complianceon/2.png",
+          "src": "fastr/2.png",
           "id": "2"
         },
         {
-          "src": "complianceon/3.png",
+          "src": "fastr/3.png",
           "id": "3"
         },
         {
-          "src": "complianceon/4.png",
+          "src": "fastr/4.png",
           "id": "4"
         },
         {
-          "src": "complianceon/5.png",
+          "src": "fastr/5.png",
           "id": "5"
         },
         {
-          "src": "complianceon/6.png",
+          "src": "fastr/6.png",
           "id": "6"
         },
         {
-          "src": "complianceon/7.png",
+          "src": "fastr/7.png",
           "id": "7"
+        },
+        {
+          "src": "fastr/8.png",
+          "id": "8"
+        },
+        {
+          "src": "fastr/9.png",
+          "id": "9"
+        },
+        {
+          "src": "fastr/10.png",
+          "id": "10"
+        },
+        {
+          "src": "fastr/11.png",
+          "id": "11"
+        },
+        {
+          "src": "fastr/12.png",
+          "id": "12"
+        },
+        {
+          "src": "fastr/13.png",
+          "id": "13"
+        },
+        {
+          "src": "fastr/14.png",
+          "id": "14"
+        },
+        {
+          "src": "fastr/15.png",
+          "id": "15"
+        },
+        {
+          "src": "fastr/16.png",
+          "id": "16"
+        },
+        {
+          "src": "fastr/17.png",
+          "id": "17"
+        },
+        {
+          "src": "fastr/18.png",
+          "id": "18"
+        },
+        {
+          "src": "fastr/19.png",
+          "id": "19"
+        },
+        {
+          "src": "fastr/20.png",
+          "id": "20"
         }
       ]
     },
@@ -126,10 +162,70 @@
     },
     {
       "id": "3",
+      "name": "ComplianceOn",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": null,
+      "description": "Delivered a complete front-end solution for a security and compliance automation software start-up based in the United States.\n\n Designed and implemented a sophisticated analytics and report generation service, in addition to creating an integrated in-app marketplace featuring Stripe payment gateway integration.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "devicon:html5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "devicon:css3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "devicon:javascript"
+        },
+        {
+          "name": "ReactJs",
+          "iconifyClass": "devicon:react"
+        },
+        {
+          "name": "NodeJs",
+          "iconifyClass": "devicon:nodejs"
+        }
+      ],
+      "images": [
+        {
+          "src": "complianceon/1.png",
+          "id": "1"
+        },
+        {
+          "src": "complianceon/2.png",
+          "id": "2"
+        },
+        {
+          "src": "complianceon/3.png",
+          "id": "3"
+        },
+        {
+          "src": "complianceon/4.png",
+          "id": "4"
+        },
+        {
+          "src": "complianceon/5.png",
+          "id": "5"
+        },
+        {
+          "src": "complianceon/6.png",
+          "id": "6"
+        },
+        {
+          "src": "complianceon/7.png",
+          "id": "7"
+        }
+      ]
+    },
+    {
+      "id": "3",
       "name": "Gfacility Webapp",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": null,
-      "description": "At Gfacility, we believe that technology is the key to an attractive work environment and high-quality services. With our revolutionary approach, we help you set the new standard for your organization. A standard that feels just as familiar as the old one but, above all, gets a little better every day.\n\n Our software goes beyond just user-friendliness. We want to help our users succeed with intuitive software that proactively supports the user.\n\n At Gfacility, we offer the broadest definition of Software as a Service (SaaS). Our software is designed with the latest technology, with information security, infinite scalability, and seamless integration with other software solutions as core principles. We understand that organizations are constantly changing and evolving, and we are happy to evolve with you. With our software, you can easily make adjustments yourself, and as a partner, we proactively help you get the most out of the software. \n\n Solutions: \n\n 1) Events \n\n 2) Visitors \n\n 3) Catering \n\n 4) Finance \n\n 5) Room Signages \n\n 6) Dashboards \n\n 7) Google Workspace \n\n 8) Office 365 \n\n 9) Helpdesk  \n\n 10) QR code generator \n\n 11) Preventive Maintenance \n\n 12) Asset Management ",
+      "description": "Played a pivotal role in three projects from their initial phases encompassing the main web applications and other applications (PWAs), enhancing meeting booking service at the core while facilitating other solutions such as visitors, catering, meeting room, finances, and other management.\n\n - Designed a real-time event synchronisation service for both Google and Outlook calendars.\n\n - Contributed to crafting the add-ins for both Google and Outlook calendars, facilitating seamless integration between the main application and external meeting booking providers.\n\n Key achievements:\n\n - Helped to save more than 40% on infra cost while stabilising the overall system by moving event syncing to a serverless architecture.\n\n - Was appreciated for my work and results and thus was offered to join full-time multiple times.",
       "isFork": false,
       "languages": [
         {

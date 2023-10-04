@@ -544,13 +544,47 @@ const experience = {
           logo_path: "chatinc.gif",
           duration: "Jan 2021 - Present",
           location: "Cape Town, Western Cape, South Africa",
-          description: `Kong API Gateway · AWS Lambda · REST APIs · Google Cloud Platform (GCP) · RESTful WebServices · Cloud Computing · GitHub · Software Deployment · Bitbucket · Linux · React.js · Node.js · MySQL · AngularJS · Firebase · Cloud Firestore · MongoDB · Redis \n
-          - Contributing to designing system architects for the in-house products.
-          - Migrating legacy systems to new stack and the environment.
-          - Improved the message processing capabilities by more than 15x.
-          - Leading engineering team based in India.
-          - Designed Proactive message sending app for the Zendesk Marketplace.
+          description: `- Engaged in full-stack development, including spearheading pivotal projects focused on Chat Application Platforms and Bots, as well as architecting in-house products.
+          - Participated in establishing the foundational infrastructure, deploying systems, and configuring a continuous delivery pipeline.
+          - Leading a team of engineers in India and working with other members from South Africa.
+          - Associated with many renowned clients directly some being Flysafair, DSTV, Hungry Lion, Woolworths, TFG, etc.
+          - Created a comprehensive SaaS proactive messaging app for the Zendesk support platform, complete with payment integration, integrated monitoring, and analytics features.
+          - Collaborated with the Meta team to leverage Whatsapp beta features and implement innovative solutions.
+          
+          Key achievements:
+
+          - Enhanced system stability through selective cloud migration, resulting in 15-fold increase in message processing while reducing the overall infrastructure cost.
+          - Secured a promotion to Tech Lead while also overseeing the growth of the engineering team in India.
           `,
+          skills: [
+            "Amazon Web Services (AWS)",
+            "Docker",
+            "NestJS",
+            "Zendesk Customer Service Software",
+            "Mixpanel",
+            "Technical Leadership",
+            "Mean Stack",
+            "Kong API Gateway",
+            "AWS Lambda",
+            "REST APIs",
+            "Google Cloud Platform (GCP)",
+            "RESTful WebServices",
+            "Cloud Computing",
+            "GitHub",
+            "Software Deployment",
+            "Bitbucket",
+            "Linux",
+            "React.js",
+            "Node.js",
+            "Angular",
+            "MySQL",
+            "Next.js",
+            "Firebase",
+            "Cloud Firestore",
+            "MongoDB",
+            "Redis",
+            "RabbitMQ",
+          ],
           color: "#fc1f20",
         },
         {
@@ -560,8 +594,30 @@ const experience = {
           logo_path: "Maven.jpeg",
           duration: "Mar 2018 - Jan 2021",
           location: "Surat, Gujarat",
-          description:
-            "Working with NodeJs, ReactJs, Angular, ExpressJs, Mysql, Postgres, Rabbitmq & GCP",
+          description: `- Played a pivotal role in API and Front-end development while leading a team of 3 members.
+          - Designed a PWA equipped with a licence plate scanner tailored for South African vehicles. This cutting-edge application streamlined the process of generating insurance quotes for vehicles easily.
+          - Provided mentorship to numerous team members, imparting valuable skills in comprehending project requirements, conducting code reviews, and expeditiously resolving critical issues.
+          - Personally managed major clients including Chat Inc., Pearson, and MotorHappy.
+
+          Key achievements:
+
+          - Secured a valuable opportunity for a 3-week on-site visit to Chat Inc., South Africa office, leading to seamless integration into Chat Inc.’s core team.
+          - Engineered a centralised switchboard mechanism-based solution, enabling seamless onboarding and offboarding of various providers. The system efficiently processed millions of messages per month, powering nearly 80% of all in-house products.
+          `,
+          skills: [
+            "Mean Stack",
+            "Angular Material",
+            "Angular",
+            "Bootstrap",
+            "Apache2",
+            "Nginx",
+            "REST APIs",
+            "RESTful WebServices",
+            "Linux",
+            "Node.js",
+            "MySQL",
+            "Next.js",
+          ],
           color: "#fc1f20",
         },
         {
@@ -572,8 +628,17 @@ const experience = {
           logo_path: "Rawal.jpeg",
           duration: "Dec 2016 - Feb 2018",
           location: "Surat, Gujarat",
-          description:
-            "Provided fully front end solutions in Angular JS, Angular 4 & 5 projects.",
+          description: `- Engaged in front-end development using both AngularJS and Angular 4+
+          - Oversaw projects from inception, including requirement gathering and analysis, and continued to lead a team of 2 more front-end engineers fostering seamless collaboration with Back-end engineers and the project manager.
+          - Facilitated peer reviews and introduced front-end testing through Protractor and Selenium.
+          `,
+          skills: [
+            "Software Deployment",
+            "Linux",
+            "React.js",
+            "Angular",
+            "AngularJSSkills",
+          ],
           color: "#9b1578",
         },
         {
@@ -583,16 +648,30 @@ const experience = {
           logo_path: "krishagni.jpeg",
           duration: "Jan 2014 - Nov 2016",
           location: "Pune, Maharashtra",
-          description: `openSpecimen (caTissue)
-          \n Health Research Management Product.
-          \n Developed using Spring Rest Api's, Hibernate, Angular Js, HTML 5, CSS, Jquery, MySql, Oracle, Grunt.
-          \n ---------------------------------------------------------------------------------------------------------
-          \n SHMi Analytics Portal
-          \n Web-based application
-          \n Using Java(Servlet / Jsp) + DHTML + Javascript + MySql
-          \n ---------------------------------------------------------------------------------------------------------
-          \n GTAC - Genome Technology Access Center for Washington University (Department of Genetics)
-          \n Health Research-Based Web Application Using Python, Django, HTML, Jquery, and CSS.`,
+          description: `- Commenced my journey as an intern and subsequently advanced to the role of software developer, attributed to my outstanding self-learning abilities.
+          - Contributed to the Open Source Health Research Specimen BioBanking/Biorepository Management Software, serving prominent clients such as renowned universities including John Hopkins University, University Of Melbourne, and others.
+          - Participated in GTAC (Genome Technology Access Center) software funded by Washington University, USA.
+          - Designed an installer for the web application using install4j, streamlining the application setup process, which included effortless configuration of the database and web server.
+          
+          Key achievements:
+
+          - During the early stages of my career, I secured a chance to work closely with a CTO which significantly influenced my professional journey providing a strong foundation of software engineering.
+          `,
+          skills: [
+            "Tomcat",
+            "Python (Programming Language)",
+            "Django",
+            "Spring MVC",
+            "Hibernate",
+            "Nginx",
+            "REST APIs",
+            "MySQL",
+            "JavaScript",
+            "AngularJS",
+            "HTML5",
+            "CSS",
+            "jQuery",
+          ],
           color: "#0879bf",
         },
       ],

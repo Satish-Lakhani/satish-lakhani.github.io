@@ -17,7 +17,7 @@ class ExperienceCard extends Component {
           <div className="experience-card-logo-div">
             <img
               className="experience-card-logo"
-              src={require(`../../assests/images/${experience["logo_path"]}`)}
+              src={require(`../../assests/images/${experience?.logo_path}`)}
               alt=""
             />
           </div>
@@ -66,18 +66,18 @@ class ExperienceCard extends Component {
                     className="experience-card-title"
                     style={{ color: theme.text }}
                   >
-                    {experience["title"]}
+                    {experience?.title}
                   </h3>
                   <p
                     className="experience-card-company"
                     style={{ color: theme.text }}
                   >
                     <a
-                      href={experience["company_url"]}
+                      href={experience?.company_url}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      {experience["company"]}
+                      {experience?.company}
                     </a>
                   </p>
                 </div>
@@ -87,13 +87,13 @@ class ExperienceCard extends Component {
                       className="experience-card-duration"
                       style={{ color: theme.secondaryText }}
                     >
-                      {experience["duration"]}
+                      {experience?.duration}
                     </p>
                     <p
                       className="experience-card-location"
                       style={{ color: theme.secondaryText }}
                     >
-                      {experience["location"]}
+                      {experience?.location}
                     </p>
                   </div>
                 </div>
@@ -109,7 +109,31 @@ class ExperienceCard extends Component {
                   className="repo-description"
                   style={{ "-webkit-line-clamp": "unset" }}
                 >
-                  {experience["description"]}
+                  {experience?.description}
+                  {experience?.skills?.length && (
+                    <div style={{ marginTop: "10px" }}>
+                      <div
+                        style={{
+                          display: "flex",
+                          flexWrap: "wrap",
+                          rowGap: "5px",
+                        }}
+                      >
+                        <span
+                          style={{
+                            fontSize: "15px",
+                            fontWeight: 500,
+                            marginRight: "5px",
+                          }}
+                        >
+                          Skills:
+                        </span>
+                        {experience.skills.map((skill) => (
+                          <span className="badge-indigo">{skill}</span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
                 </div>
               </div>
             </div>
