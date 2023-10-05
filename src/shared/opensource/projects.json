@@ -11,6 +11,26 @@
         {
           "name": "NextJs",
           "iconifyClass": "devicon:nextjs"
+        },
+        {
+          "name": "ReactJs",
+          "iconifyClass": "devicon:react"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon:typescript"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "devicon:tailwindcss"
+        },
+        {
+          "name": "Prisma",
+          "iconifyClass": "devicon:prisma"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "devicon:postgresql"
         }
       ],
       "images": [

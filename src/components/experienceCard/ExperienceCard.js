@@ -129,7 +129,7 @@ class ExperienceCard extends Component {
                           Skills:
                         </span>
                         {experience.skills.map((skill) => (
-                          <span className="badge-indigo">{skill}</span>
+                          <span className="badge-green">{skill}</span>
                         ))}
                       </div>
                     </div>

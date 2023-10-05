@@ -342,45 +342,6 @@
   }
 }
 
-.badge-blue {
-  padding-top: 0.125rem;
-  padding-bottom: 0.125rem;
-  padding-left: 0.625rem;
-  padding-right: 0.625rem;
-  margin-right: 0.5rem;
-  border-radius: 0.25rem;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  font-weight: 500;
-  color: #1e40af;
-  background-color: #dbeafe;
-}
-.badge-gray {
-  padding-top: 0.125rem;
-  padding-bottom: 0.125rem;
-  padding-left: 0.625rem;
-  padding-right: 0.625rem;
-  margin-right: 0.5rem;
-  border-radius: 0.25rem;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  font-weight: 500;
-  color: #1f2937;
-  background-color: #f3f4f6;
-}
-.badge-red {
-  padding-top: 0.125rem;
-  padding-bottom: 0.125rem;
-  padding-left: 0.625rem;
-  padding-right: 0.625rem;
-  margin-right: 0.5rem;
-  border-radius: 0.25rem;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  font-weight: 500;
-  color: #991b1b;
-  background-color: #fee2e2;
-}
 .badge-green {
   padding-top: 0.125rem;
   padding-bottom: 0.125rem;
@@ -391,58 +352,6 @@
   font-size: 0.875rem;
   line-height: 1.25rem;
   font-weight: 500;
-  color: #065f46;
-  background-color: #d1fae5;
-}
-.badge-yello {
-  padding-top: 0.125rem;
-  padding-bottom: 0.125rem;
-  padding-left: 0.625rem;
-  padding-right: 0.625rem;
-  margin-right: 0.5rem;
-  border-radius: 0.25rem;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  font-weight: 500;
-  color: #92400e;
-  background-color: #fef3c7;
-}
-.badge-indigo {
-  padding-top: 0.125rem;
-  padding-bottom: 0.125rem;
-  padding-left: 0.625rem;
-  padding-right: 0.625rem;
-  margin-right: 0.5rem;
-  border-radius: 0.25rem;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  font-weight: 500;
-  color: #3730a3;
-  background-color: #e0e7ff;
-}
-.badge-purple {
-  padding-top: 0.125rem;
-  padding-bottom: 0.125rem;
-  padding-left: 0.625rem;
-  padding-right: 0.625rem;
-  margin-right: 0.5rem;
-  border-radius: 0.25rem;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  font-weight: 500;
-  color: #5b21b6;
-  background-color: #ede9fe;
-}
-.badge-pink {
-  padding-top: 0.125rem;
-  padding-bottom: 0.125rem;
-  padding-left: 0.625rem;
-  padding-right: 0.625rem;
-  margin-right: 0.5rem;
-  border-radius: 0.25rem;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  font-weight: 500;
-  color: #9d174d;
-  background-color: #fce7f3;
+  color: white;
+  background-color: #14b8a6;
 }
