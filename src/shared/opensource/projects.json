@@ -241,7 +241,7 @@
       ]
     },
     {
-      "id": "3",
+      "id": "4",
       "name": "Gfacility Webapp",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": null,
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "id": "4",
+      "id": "5",
       "name": "Google addin",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": null,
@@ -351,6 +351,14 @@
         {
           "name": "Google AppScript",
           "iconifyClass": "simple-icons:googleappsscript"
+        },
+        {
+          "name": "Cloud functions",
+          "iconifyClass": "logos:google-cloud-functions"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "devicon:mysql"
         }
       ],
       "images": [
@@ -365,7 +373,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "6",
       "name": "MS addin",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": null,
@@ -401,7 +409,7 @@
       ]
     },
     {
-      "id": "6",
+      "id": "7",
       "name": "Room signage",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": null,
@@ -433,6 +441,278 @@
         {
           "src": "room-signage/2.png",
           "id": "2"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Sweesh",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": null,
+      "description": "I played a significant role in the full-stack development of a project focused on broadcasting campaigns to a wide audience through WhatsApp and Telegram. This project centered on a Software as a Service (SaaS) platform, allowing users to register and configure their organizations and individual users, while also setting up their respective WhatsApp and Telegram channels.\n\n The payment processing functionality was facilitated through the integration of the Stripe payment gateway, and robust system monitoring was implemented using Datadog to ensure uninterrupted system availability at all times.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "NodeJs",
+          "iconifyClass": "devicon:nodejs"
+        },
+        {
+          "name": "NextJs",
+          "iconifyClass": "devicon:nextjs"
+        },
+        {
+          "name": "Laravel",
+          "iconifyClass": "devicon:laravel"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "devicon:mysql"
+        },
+        {
+          "name": "Cloud functions",
+          "iconifyClass": "logos:google-cloud-functions"
+        },
+        {
+          "name": "Real time database",
+          "iconifyClass": "gg:database"
+        },
+        {
+          "name": "Cloud tasks",
+          "iconifyClass": "logos:google-cloud"
+        },
+        {
+          "name": "Cloud run",
+          "iconifyClass": "logos:google-cloud-run"
+        },
+        {
+          "name": "Bigquery",
+          "iconifyClass": "simple-icons:googlebigquery"
+        },
+        {
+          "name": "Datadog",
+          "iconifyClass": "logos:datadog-icon"
+        },
+        {
+          "name": "MixPanel",
+          "iconifyClass": "logos:mixpanel"
+        },
+        {
+          "name": "WhatsApp",
+          "iconifyClass": "logos:whatsapp-icon"
+        },
+        {
+          "name": "Telegram",
+          "iconifyClass": "logos:telegram"
+        }
+      ],
+      "images": [
+        {
+          "src": "sweesh/1.png",
+          "id": "1"
+        },
+        {
+          "src": "sweesh/2.png",
+          "id": "2"
+        },
+        {
+          "src": "sweesh/3.png",
+          "id": "3"
+        },
+        {
+          "src": "sweesh/4.png",
+          "id": "4"
+        },
+        {
+          "src": "sweesh/5.png",
+          "id": "5"
+        },
+        {
+          "src": "sweesh/6.png",
+          "id": "6"
+        },
+        {
+          "src": "sweesh/7.png",
+          "id": "7"
+        },
+        {
+          "src": "sweesh/8.png",
+          "id": "8"
+        },
+        {
+          "src": "sweesh/9.png",
+          "id": "9"
+        },
+        {
+          "src": "sweesh/10.png",
+          "id": "10"
+        },
+        {
+          "src": "sweesh/11.png",
+          "id": "11"
+        },
+        {
+          "src": "sweesh/12.png",
+          "id": "12"
+        },
+        {
+          "src": "sweesh/13.png",
+          "id": "13"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "RContacts",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": null,
+      "description": "This product functioned as a contact management solution, offering features comparable to those found in Truecaller. Users could effectively manage their contacts and report spam numbers, thereby contributing to the caller quality rating visible to other users when receiving calls from those numbers. Additionally, the product included functionalities aimed at improving the overall experience with text messages and call logs.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "NodeJs",
+          "iconifyClass": "devicon:nodejs"
+        },
+        {
+          "name": "Angular",
+          "iconifyClass": "devicon:angularjs"
+        },
+        {
+          "name": "HTML5",
+          "iconifyClass": "devicon:html5"
+        },
+        {
+          "name": "SCSS",
+          "iconifyClass": "vscode-icons:file-type-scss"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "devicon:bootstrap"
+        }
+      ],
+      "images": [
+        {
+          "src": "r-contacts/1.png",
+          "id": "1"
+        },
+        {
+          "src": "r-contacts/2.png",
+          "id": "2"
+        },
+        {
+          "src": "r-contacts/3.png",
+          "id": "3"
+        },
+        {
+          "src": "r-contacts/4.png",
+          "id": "4"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "OpenSpecimen",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": null,
+      "description": "I made contributions to an Open Source Health Research Specimen BioBanking/Biorepository Management Software, catering to prestigious clients such as renowned universities, including John Hopkins University, the University of Melbourne, and others. The software's frontend was built using AngularJS, while the backend relied on Spring and Hibernate technologies.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "devicon:angularjs"
+        },
+        {
+          "name": "HTML5",
+          "iconifyClass": "devicon:html5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "vscode-icons:file-type-css"
+        },
+        {
+          "name": "Sprint",
+          "iconifyClass": "material-symbols:sprint"
+        },
+        {
+          "name": "Hibernate",
+          "iconifyClass": "devicon:hibernate"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "devicon:mysql"
+        },
+        {
+          "name": "Oracle",
+          "iconifyClass": "logos:oracle"
+        }
+      ],
+      "images": [
+        {
+          "src": "open-specimen/1.png",
+          "id": "1"
+        },
+        {
+          "src": "open-specimen/2.png",
+          "id": "2"
+        },
+        {
+          "src": "open-specimen/3.png",
+          "id": "3"
+        },
+        {
+          "src": "open-specimen/4.png",
+          "id": "4"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Sales call analytics",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": null,
+      "description": "This project revolved around the processing of sales calls conducted by sales representatives through the application of AI technology. The objective was to transform these conversations into analytical data, considering various criteria such as voice quality, caller and receiver behaviors, and more. My role encompassed comprehensive front-end development, including integration with RESTful APIs.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "NextJs",
+          "iconifyClass": "devicon:nextjs"
+        },
+        {
+          "name": "ReactJs",
+          "iconifyClass": "devicon:react"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "devicon:tailwindcss"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos:aws-s3"
+        },
+        {
+          "name": "ChartJs",
+          "iconifyClass": "file-icons:chartjs"
+        }
+      ],
+      "images": [
+        {
+          "src": "sales-call-analytics/1.png",
+          "id": "1"
+        },
+        {
+          "src": "sales-call-analytics/2.png",
+          "id": "2"
+        },
+        {
+          "src": "sales-call-analytics/3.png",
+          "id": "3"
+        },
+        {
+          "src": "sales-call-analytics/4.png",
+          "id": "4"
+        },
+        {
+          "src": "sales-call-analytics/5.png",
+          "id": "5"
         }
       ]
     }

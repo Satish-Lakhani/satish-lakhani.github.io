@@ -386,19 +386,18 @@ const degrees = {
   degrees: [
     {
       title: "Savitribai Phule Pune University",
-      subtitle: "M.C.A, Computer",
+      subtitle: "Master of Computer Application",
       logo_path: "SPPU.png",
       alt_name: "SPPU",
       duration: "2011 - 2014",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
+        "⚡ I have taken varity of courses related to Data Structure, Algorithms, Operating System Concepts, Network Technologies, Object Oriented Software Engineering, Optimization Techniques, Advanced Internet Technologies, Software Testing and Quality Assurance etc.",
       ],
       website_link: "http://www.unipune.ac.in/",
     },
     {
       title: "Veer Narmad South Gujarat University",
-      subtitle: "B.C.A, Computer",
+      subtitle: "Bachelor of Computer Applications",
       logo_path: "VNSGU-LOGO.jpg",
       alt_name: "vnsgu",
       duration: "2008 - 2011",
