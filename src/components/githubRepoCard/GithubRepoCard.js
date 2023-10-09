@@ -40,10 +40,9 @@ export default function GithubRepoCard({ repo, theme }) {
                 {repo.name}
               </p>
             </div>
-            <ProjectLanguages
-              className="repo-languages"
-              logos={repo.languages}
-            />
+            <div style={{ height: "66px" }}>
+              <ProjectLanguages logos={repo.languages} />
+            </div>
           </div>
 
           {repo?.images?.length > 0 && (
@@ -62,6 +61,11 @@ export default function GithubRepoCard({ repo, theme }) {
                   return (
                     <div key={image.id}>
                       <img
+                        style={{
+                          height: "400px",
+                          objectFit: "fill",
+                          objectPosition: "center",
+                        }}
                         src={require(`../../assests/images/projects/${image.src}`)}
                       />
                     </div>
